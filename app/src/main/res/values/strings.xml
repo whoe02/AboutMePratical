@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AboutMePratical</string>
+    <string name="name">Wing Hoe</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">
+        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+        \n\nLorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer
+        \n\ntook a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,
+        \n\nbut also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the
+        \n\n1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop
+        \n\n1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop
+        \n\n1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop
+        \n\n1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop
+        \n\n1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop
+        \n\n1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop
+        \n\npublishing software like Aldus PageMaker including versions of Lorem Ipsum.
+    </string>
+    <string name="what_nickname">What is your nickname</string>
+    <string name="done">Done</string>
+</resources>
